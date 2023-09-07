@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "forexsheetsproject",
+  "private_key_id": "b5b3cdef31b17e50e39320b06f0ae44bcddab1ff",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCNjtgPMm1riEeH\nA8HxA0+t2GE3Zfjd+3htKt5mNWY6cwAcgbumUv5vOSNks+FRDiTLoN9f8f+QUAul\niX/fUfjRK7qCu4+gIrSxacdgDQx7gmZvngGybtbS8vg4zy8CS+I2ChAJhLjOXvXT\n471nwdi41db43ybOYoESyp5cZHDCCSo+jRTyZNYRZFnI35C8HxYQw7H2zP5jVpSp\nLPnfDYcRCvX6XJ3hCDozJxeYnv29jwQcEx9YFfAFVAMKgnxIvKmyg/EFXA35z0nJ\nC0lXjlRD5/uOg7EYC5E55y+DIIHUw2EbIme+uQHVSbGJJ7MWVAqqW3F6+Oh6jS/w\nZS+HAlhRAgMBAAECggEAA+CeZi8qTFxdojL+BlciAPfo9MqiIhlz42Cd2iSbDd2N\nypoanNwP3FXPNIBRWwYlR58a0z7WklpA8Wo2YpR1GWymVZOj493jf2sPcx/0YDMy\nkVrdfsjWsU1Gs46oQdq4geStawdTxRJYjzLhIqUOhcSUuHkrT9KmqLA8XXlCVew+\nKKrZJUnJ/9B0XKzaoPCkKeOrDDxvzThIQdhgI6eICgEhtVgHF0SiGkvJftKi5LX8\nDdvXiAgUcBVT6i3JV2e74ZDUszo7iCdylTS4GVbY/W1I87b+/ow/UM1c7K4BC0px\n8vGd8jrtclkX9bIsuxs70Pc677D7+Zyy2KOjHhPgSQKBgQDFPssBbXfMaGIhPKu/\nZakj1q4yWqLrRr2IBke/jV11YOISI7YsBkaWAdL3j2/wnw6mblPbTT67gI8g79gD\nPDbUgab3eLQCOMB6DdTdW3Ck1iATm5khmBvERmPvvigRqgz3mVYCWnCZR6pQfJ1K\nS6Y0XlqhRTqtErGZcqGuOGJ8KQKBgQC3uYpOrqqBazHKk/q7I1UvWRuDy4M3po8/\nkKPzdMxwO3/eXo7aM6QM+/2uQRpp2rDQpLlhi3CVvItpi6wXlZgrrQJfIb7O9zLS\na0Fb82ypRn0be+q6D+axcEUFix4E6zxJivy8+aE13r5Dbyu+3orWduvz9l1uP+uj\nIp8V5G9/6QKBgHuW5Mx4MuA5Z4M76MF8iYaTNYMHl52kLY3VoY88nJq3oe+LwNHE\n/OVxLyc/EPzMLPnLl2+J7wy9ePFCVy9vw0tUEbJuRxw9Qx03HXG1odcm8+JVVJXg\nIUXSdTv7AlBPJODfiyzeTj880FKuQkATNokJte/m2OUpGW70jKoFWnBBAoGBAI6T\nq1SSUfmrYXGPUzXlHpdm9GZcChGm7WXr7n/hdUHnuryr7vpAtx/ocp7HISNitnLE\nUqTzXESnlB0tajjHO9cxJTUEcBoXVlZbK9aa2wmmjTJGAQuxiVrMAJRjuMEieJ+t\n/6L7qnKu0EJuxKkT9PSoR0YFO85yRoBMPt7zbt/5AoGAJiKPP94xa27Hs+SeVdvs\nys0/sfhqSMt53JjGRIEePzXvkWhD9uH2d+q05wPIoWX3Y5bMXg0+ZlGyKl5d+per\nuIQuZr0DqSk83uTBpxy3w8DvK8Y1Ny4DnNZ5svYK4GyuMe1+3eV8VGD8HAmb/yP+\njPT734NON9kMrI1r9In2atE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "spreadsheet-application-servic@forexsheetsproject.iam.gserviceaccount.com",
+  "client_id": "111559743607999325369",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spreadsheet-application-servic%40forexsheetsproject.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
