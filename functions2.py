@@ -271,7 +271,3 @@ def find_exch_rate_4(url):
     buyValue = CITIBuyRate.text
 
     return sellValue, buyValue
-
-
-
-#For LB Dada
