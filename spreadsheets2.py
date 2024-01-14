@@ -9,15 +9,15 @@ from main import exchange_dict
 gc = pygsheets.authorize(service_file='forexsheetsproject.json')
 
 # 3. Open spreadsheet by link
-# Test Sheet: 1DNUDEi-WDyRgNGzhHxX-1m8lFgq8W-rZBBW2oswx4QA
-sh = gc.open_by_key('1F6tvz2kQc_4aOZZw7Bcu3Wd3o_evS9UEh06cCX_vIvw')
+# Test Sheet:
+sh = gc.open_by_key('API KEY GOES HERE')
 
 
 #==========================================================================
 def find_first_empty_row(column_values):
     # Find the index of the first empty cell (value is None)
     empty_index = None
-    minimum_index = 210 # look for indicies beyond this value
+    minimum_index = 210 # look for indices beyond this value
 
     for idx, value in enumerate(column_values):
         if idx >= minimum_index and not value:
